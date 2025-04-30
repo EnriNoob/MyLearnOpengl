@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
+
 project(untitled)
 
 set(CMAKE_CXX_STANDARD 17)
@@ -10,6 +11,9 @@ pkg_search_module(GLFW REQUIRED glfw3)
 # GLAD da path esterno (es: /home/tuo_utente/glad)
 set(GLAD_ROOT "/home/enri/glad")  # <--- cambia col tuo username
 add_library(glad ${GLAD_ROOT}/src/glad.c)
+
+include_directories(${CMAKE_SOURCE_DIR}/glm)
+
 
 target_include_directories(glad PUBLIC ${GLAD_ROOT}/include)
 

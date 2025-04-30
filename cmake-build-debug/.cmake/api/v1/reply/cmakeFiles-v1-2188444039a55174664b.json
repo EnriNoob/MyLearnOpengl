@@ -21,6 +21,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/home/enri/clion-2025.1/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeUnixFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/home/enri/clion-2025.1/bin/cmake/linux/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -848,8 +853,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/enri/CLionProjects/MyLearnOpenGl/cmake-build-debug",
-		"source" : "/home/enri/CLionProjects/MyLearnOpenGl"
+		"build" : "/home/enri/CLionProjects/MyLearnOpengl/cmake-build-debug",
+		"source" : "/home/enri/CLionProjects/MyLearnOpengl"
 	},
 	"version" : 
 	{

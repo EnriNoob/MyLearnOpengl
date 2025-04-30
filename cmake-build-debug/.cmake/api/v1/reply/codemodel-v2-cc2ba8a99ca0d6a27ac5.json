@@ -41,14 +41,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "glad::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-glad-Debug-8955ba8a913e4526134c.json",
+					"jsonFile" : "target-glad-Debug-c0825f002147104e4210.json",
 					"name" : "glad",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "untitled::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled-Debug-c596632cb8832191ecf8.json",
+					"jsonFile" : "target-untitled-Debug-f6c9d43fbd4aeba057ca.json",
 					"name" : "untitled",
 					"projectIndex" : 0
 				}
@@ -58,8 +58,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/enri/CLionProjects/MyLearnOpenGl/cmake-build-debug",
-		"source" : "/home/enri/CLionProjects/MyLearnOpenGl"
+		"build" : "/home/enri/CLionProjects/MyLearnOpengl/cmake-build-debug",
+		"source" : "/home/enri/CLionProjects/MyLearnOpengl"
 	},
 	"version" : 
 	{

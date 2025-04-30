@@ -1,4 +1,4 @@
-/home/enri/CLionProjects/MyLearnOpenGl/cmake-build-debug/CMakeFiles/glad.dir
-/home/enri/CLionProjects/MyLearnOpenGl/cmake-build-debug/CMakeFiles/untitled.dir
-/home/enri/CLionProjects/MyLearnOpenGl/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/enri/CLionProjects/MyLearnOpenGl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/enri/CLionProjects/MyLearnOpengl/cmake-build-debug/CMakeFiles/glad.dir
+/home/enri/CLionProjects/MyLearnOpengl/cmake-build-debug/CMakeFiles/untitled.dir
+/home/enri/CLionProjects/MyLearnOpengl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/enri/CLionProjects/MyLearnOpengl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

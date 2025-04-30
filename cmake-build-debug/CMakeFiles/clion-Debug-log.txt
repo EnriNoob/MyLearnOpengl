@@ -1,4 +1,4 @@
-/home/enri/clion-2025.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/enri/clion-2025.1/bin/ninja/linux/x64/ninja -G Ninja -S /home/enri/CLionProjects/MyLearnOpenGl -B /home/enri/CLionProjects/MyLearnOpenGl/cmake-build-debug
+/home/enri/clion-2025.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /home/enri/CLionProjects/MyLearnOpengl -B /home/enri/CLionProjects/MyLearnOpengl/cmake-build-debug
 -- The C compiler identification is GNU 14.2.1
 -- The CXX compiler identification is GNU 14.2.1
 -- Detecting C compiler ABI info
@@ -13,6 +13,6 @@
 -- Detecting CXX compile features - done
 -- Found PkgConfig: /usr/bin/pkg-config (found version "2.4.3")
 -- Checking for one of the modules 'glfw3'
--- Configuring done (0.5s)
+-- Configuring done (0.6s)
 -- Generating done (0.0s)
--- Build files have been written to: /home/enri/CLionProjects/MyLearnOpenGl/cmake-build-debug
+-- Build files have been written to: /home/enri/CLionProjects/MyLearnOpengl/cmake-build-debug
