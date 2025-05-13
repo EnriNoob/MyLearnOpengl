@@ -66,12 +66,10 @@ CMakeFiles/glad.dir/home/enri/glad/src/glad.c.o: /home/enri/glad/src/glad.c \
   /usr/include/sys/cdefs.h \
   /usr/include/sys/select.h \
   /usr/include/sys/types.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
-  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h
 
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h:
 
 /usr/include/sys/types.h:
 
@@ -80,8 +78,6 @@ CMakeFiles/glad.dir/home/enri/glad/src/glad.c.o: /home/enri/glad/src/glad.c \
 /usr/include/string.h:
 
 /usr/include/stdlib.h:
-
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdarg.h:
 
 /usr/include/stdio.h:
 
@@ -115,8 +111,6 @@ CMakeFiles/glad.dir/home/enri/glad/src/glad.c.o: /home/enri/glad/src/glad.c \
 
 /usr/include/bits/long-double.h:
 
-/usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h:
-
 /usr/include/bits/typesizes.h:
 
 /usr/include/bits/struct_rwlock.h:
@@ -130,6 +124,8 @@ CMakeFiles/glad.dir/home/enri/glad/src/glad.c.o: /home/enri/glad/src/glad.c \
 /usr/include/bits/floatn.h:
 
 /usr/include/bits/types/FILE.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stddef.h:
 
 /usr/include/bits/types/__locale_t.h:
 
@@ -183,6 +179,8 @@ CMakeFiles/glad.dir/home/enri/glad/src/glad.c.o: /home/enri/glad/src/glad.c \
 
 /usr/include/bits/stdint-least.h:
 
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdarg.h:
+
 /usr/include/bits/waitstatus.h:
 
 /home/enri/glad/include/glad/glad.h:
@@ -196,6 +194,8 @@ CMakeFiles/glad.dir/home/enri/glad/src/glad.c.o: /home/enri/glad/src/glad.c \
 /usr/include/bits/types/__fpos64_t.h:
 
 /usr/include/bits/thread-shared-types.h:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/15.1.1/include/stdint.h:
 
 /usr/include/endian.h:
 

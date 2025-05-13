@@ -1,0 +1,66 @@
+# Scaled and normalized MTL for cacodemon_LOD0
+
+newmtl cacodemon_armor
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ns 225.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd cacodemon_armor.png
+map_Ks cacodemon_armor_s.png
+map_Bump cacodemon_armor_n.png
+map_d cacodemon_armor_sss.png
+
+newmtl cacodemon_body
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ns 225.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd cacodemon_body.png
+map_Ks cacodemon_body_s.png
+map_Bump cacodemon_body_n.png
+map_d cacodemon_body_sss.png
+
+newmtl cacodemon_arms
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ns 225.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd cacodemon_arms.png
+map_Ks cacodemon_arms_s.png
+map_Bump cacodemon_arms_n.png
+map_d cacodemon_arms_sss.png
+
+newmtl cacodemon_eye
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ns 225.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd cacodemon_eye.png
+map_Bump cacodemon_eye_n.png
+
+newmtl cacodemon_wounds
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ns 225.000000
+Ni 1.450000
+d 1.000000
+illum 2
+# NOTE: Add texture paths when available

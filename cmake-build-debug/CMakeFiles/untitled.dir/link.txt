@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/untitled.dir/main.cpp.o -o untitled  -lglfw libglad.a
+/usr/bin/c++ -g CMakeFiles/untitled.dir/main.cpp.o -o untitled  -lglfw libglad.a -lassimp
